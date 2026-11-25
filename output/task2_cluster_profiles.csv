@@ -1,0 +1,19 @@
+,Cluster,Label,Shares,MeanWeeklyReturn,Beta,Recency,Frequency,Monetary
+Ward_RR,1,"High return, above-market beta",92,0.55,1.22,,,
+Ward_RR,2,"Defensive, low return",66,0.11,0.45,,,
+Ward_RR,3,"Low beta, steady return",98,0.39,0.67,,,
+Ward_RR,4,High beta,48,0.25,1.51,,,
+Ward_RR,5,Market-like core,182,0.17,0.96,,,
+KM_RR,1,"Market beta, weak return",112,0.07,1.03,,,
+KM_RR,2,"Market beta, strong return",166,0.42,1.0,,,
+KM_RR,3,"Defensive, low beta",131,0.2,0.53,,,
+KM_RR,4,High-beta winners,27,0.83,1.45,,,
+KM_RR,5,High-beta laggards,50,0.27,1.54,,,
+Ward_RFM,1,No recent spike,82,,,54.5,2.0,17.85
+Ward_RFM,2,"Recent spike, high traded value",154,,,11.0,3.0,39.7
+Ward_RFM,3,"Recent spike, lower traded value",250,,,11.0,3.0,11.18
+KM_RFM,1,No recent spike,68,,,53.5,2.0,19.55
+KM_RFM,2,Frequent recent spikers,122,,,11.0,4.0,12.83
+KM_RFM,3,Very heavily traded,87,,,11.0,3.0,63.1
+KM_RFM,4,Dormant (no spike in window),11,,,102.0,0.0,24.82
+KM_RFM,5,"Core, recent spike",198,,,11.0,2.0,13.21
